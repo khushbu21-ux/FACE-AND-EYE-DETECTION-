@@ -7,12 +7,9 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 Pre-requisites
 Hands-on knowledge of Numpy and Matplotlib is essential before working on the concepts of OpenCV. Make sure that you have the following packages installed and running before installing OpenCV.
 
-Python
-Numpy
-Matplotlib
-
-OUTPUT:
-![OUTPUT]
+1.Python
+2.Numpy
+3.Matplotlib
 
 
-(https://user-images.githubusercontent.com/71555128/116860212-d952a300-ac1e-11eb-996b-93bd3c257c8a.png)
+![OUTPUT](https://user-images.githubusercontent.com/71555128/116860212-d952a300-ac1e-11eb-996b-93bd3c257c8a.png)
