@@ -12,4 +12,7 @@ Numpy
 Matplotlib
 
 OUTPUT:
-![OUTPUT](https://user-images.githubusercontent.com/71555128/116860212-d952a300-ac1e-11eb-996b-93bd3c257c8a.png)
+![OUTPUT]
+
+
+(https://user-images.githubusercontent.com/71555128/116860212-d952a300-ac1e-11eb-996b-93bd3c257c8a.png)
